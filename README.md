@@ -8,4 +8,8 @@ php client 通过thrift调用 php server
   php client
 
 
-参考文档：http://www.cnblogs.com/fingerboy/p/6427753.html
+参考文档如下：
+
+http://www.cnblogs.com/fingerboy/p/6427753.html
+
+https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/
